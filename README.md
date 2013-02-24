@@ -1,30 +1,13 @@
 HBL
 ===
-
 Human Benefit License
 
-Intent
-======
-This License is intended to cover the license of idea as used by homo erectus or any dirivation thereof.
-
-License
+Purpose
 =======
-work on license here lol
+To Create a License that is beneficial to all human organisms.
 
-Definitions
-===========
-License
-Idea
-Copy
-homo erectus
-use
-dirivitives
-organism
+Scope
+=====
+This License will cover all human idea.
 
-Copy
-====
-Copy of this License MUST be distributed with any works covered by this license in accordance with this license.
-
-Credits
-=======
-Benjamin James Schroyer (Earth, USA, California, Morgan Hill, 2013:02:24:12:31)
+Please comment and share your views.
